@@ -1,0 +1,6 @@
+@Onsdagapi_HostAddress = http://localhost:5030
+
+GET {{Onsdagapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
